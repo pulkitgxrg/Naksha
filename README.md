@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Leaflet](https://img.shields.io/badge/Library-Leaflet-green)](https://leafletjs.com/)
 
-![Naksha](https://socialify.git.ci/pulkitgarg04/Naksha/image?language=1&name=1&owner=1&theme=Dark)
+![Naksha](https://socialify.git.ci/pulkitgxrg/Naksha/image?language=1&name=1&owner=1&theme=Dark)
 
 **Naksha** (Hindi for "map") is a lightweight, user-friendly web application that uses the [Leaflet](https://leafletjs.com/) library to render an interactive world explorer to explore iconic landmarks, natural wonders, food capitals, sports venues, historic sites, and filming locations.
 
@@ -27,7 +27,7 @@
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   https://github.com/pulkitgarg04/Naksha
+   https://github.com/pulkitgxrg/Naksha
    ```
 
 2. Navigate to the Project Directory:
